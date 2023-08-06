@@ -1,2 +1,2 @@
 # Movie-Recommender-System
-It contains a project on content-based movie recommender system.
+This repository contains a project on Content-Based Movie Recommender System.
